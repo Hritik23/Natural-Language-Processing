@@ -1,1 +1,3 @@
-I am going to add many interesting projects and tools related to NLP in the future.
+I have recently added following projects.
+
+* Sentiment Analysis
