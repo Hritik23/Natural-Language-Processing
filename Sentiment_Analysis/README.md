@@ -5,5 +5,5 @@ Build the Sentiment-Classification model using two-approaches.
 Analyzed both the approaches using different test scenarios and can conclude Approach 2 is better than Approach 1.
 
 Some results:
-i am in good mood ---> 😄
-i am not in good mood ---> 😞
+* i am in good mood ---> 😄
+* i am not in good mood ---> 😞
